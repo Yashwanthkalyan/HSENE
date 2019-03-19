@@ -3,3 +3,6 @@ Product Manager
 HSE Manager
 admin
 central admin
+- login with central admin role 
+
+added new roles and responsibilities. so please write tc and execute them
