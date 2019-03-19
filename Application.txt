@@ -3,8 +3,14 @@ Product Manager
 HSE Manager
 admin
 central admin
+<<<<<<< HEAD
 
 please modify steps and update them.
 after completion of execution please raise defects
 
 
+=======
+- login with central admin role 
+
+added new roles and responsibilities. so please write tc and execute them
+>>>>>>> marvel
